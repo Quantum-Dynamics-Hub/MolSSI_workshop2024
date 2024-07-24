@@ -1,16 +1,13 @@
 ---
 layout: page
-title: "Schedule and Participants"
+title: "Schedule"
 ---
 
 ## Workshop Objectives
 
-* Get **practical experience with Libra software**, including modeling excited states phenomena in model and atomistic systems
-* Get the **up-to-date information of Libra's capabilities**
-* Learn about the **best practices** of NA-MD and related simulations with the Libra code
+* Learn about the **best practices** of using ML in electronic structure, quantum dynamics, and related simulations
 * Get an overview of **theoretical background** for corresponding computational methods
-* Learn how to **use the Libra code in your research** and initiate such activities
-* Learn how to become a **contributor to the Libra code**
+* Learn **practical aspects** of such calculations
 
 
 
@@ -29,7 +26,7 @@ The details may vary and the order of topics may be changed, the topics may be o
   </tr>
 
   <tr>
-    <td class="col-md-3">July 7, 2024, Sunday</td>
+    <td class="col-md-3">August 14, 2024, Wednesday</td>
     <td class="col-md-7">
       <ul>        
         <li>Arrivals and Welcome dinner.</li>
@@ -39,105 +36,53 @@ The details may vary and the order of topics may be changed, the topics may be o
   </tr>
   
   <tr>
-    <td class="col-md-3">July 8, 2024 (Day 1), Monday, <strong>Presentations</strong></td>
+    <td class="col-md-3">August 15, 2024 (Day 1), Thursday <strong>Presentations</strong></td>
     <td class="col-md-7">
       <ul>        
         <p><strong>Morning, 9 am - noon</strong></p>
-        <li><a href="/_episodes/01-introduction">Worshop Opening: goals, logistics, details. Overview of the CCR CyberInfrastructure. Setups. (60 min)</a></li>
-        <li><a href="/_episodes/01-introduction">General overview of Libra software. Lecture (60 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 1: Wei Li(30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 2: Lili Rassouli (30 min)</a></li>
+        <li><a href="/_episodes/01-day1">9:00 am - 9:15 am: **Alexey Akimov** Introductory remarks</a></li>
+        <li><a href="/_episodes/01-day1">9:15 am - 10:00 am: **Daniel Crawford** MolSSI presentation</a></li>
+        <li><a href="/_episodes/01-day1">10:00 am - 10:40 am: **Daniel Crawford** Research presentation</a></li>
+        <li><a href="/_episodes/01-day1">10:40 am - 11:20 am: **Zhenggang Lan (remote)** Research presentation</a></li>
+        <li><a href="/_episodes/01-day1">11:20 am - 12:00 am: **Johannes Hackmann (remote)** Research presentation</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/01-introduction">Presentation 3: Mohammad Shakiba (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 4: Fulu Zheng (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 5: Qingxin Zhang (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 6: Miguel Recio (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 7: Daeho Han (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 8: Dora Voeroes (30 min)</a></li>
-        <li><a href="/_episodes/01-introduction">Presentation 9: Kevin Walsh (30 min)</a></li>
+        <li><a href="/_episodes/01-day1">1:30 pm - 2:10 pm: **Michele Pavanello** Research presentation</a></li>
+        <li><a href="/_episodes/01-day1">2:10 pm - 2:50 pm: **Rafael Gomez-Bombarelli** Research presentation</a></li>
+        <li><a href="/_episodes/01-day1">2:50 pm - 3:30 pm: **Mark Tuckermann** Research presentation</a></li>
+        <li><a href="/_episodes/01-day1">3:30 pm - 4:10 pm: **Romit Chakraborty (Laura Gagliardy group)** Research presentation</a></li>
+        <li><a href="/_episodes/01-day1">4:10 pm - 5:00 pm: Discussions</a></li>
       </ul>
     </td> 
     <td class="col-md-2">Alexey Akimov, participants</td>
   </tr>
 
   <tr>
-    <td class="col-md-3">July 9, 2024 (Day 2), Tuesday, <strong>SOFT, HEOM, TSH and Ehrenfest with Model Hamiltonians</strong></td>
+    <td class="col-md-3">August 16, 2024 (Day 2), Friday <strong>Presentations</strong></td>
     <td class="col-md-7">
       <ul>
         <p><strong>Morning, 9 am - noon</strong></p>
-        <li><a href="/_episodes/02-soft-heom-tsh">Define model Hamiltonians (60 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">SOFT calcultaions in Libra (60 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (60 min)</a></li>
+        <li><a href="/_episodes/02-day2">9:00 am - 9:40 am: **Pavlo Dral (remote)** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">9:40 am - 10:20 am: **Linjun Wang (remote)** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">10:20 am - 11:00 am: **Xiang Sun (remote)** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">11:00 am - 11:40 am: **Alexei Kananenka** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">11:40 am - 12:00 am: Discussions</a></li>
         <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
         <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/02-soft-heom-tsh">TSH and Ehrenfest dynamics with 1D model Hamiltonians (120 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">HEOM for spin-boson Hamiltonian (60 min)</a></li>
-        <li><a href="/_episodes/02-soft-heom-tsh">Discussions and Collaborations (30 min)</a></li>
+        <li><a href="/_episodes/02-day2">1:30 pm - 2:10 pm: **Alexey Akimov** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">2:10 pm - 2:50 pm: **Oleg Prezhdo** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">2:50 pm - 3:30 pm: **Dmitri Kilin** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">3:30 pm - 4:10 pm: **Maxim Kulichenko (Sergei Tretiak group)** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">4:10 pm - 4:50 pm: **Mohammad Shakiba (Alexey Akimov group)** Research presentation</a></li>
+        <li><a href="/_episodes/02-day2">4:50 pm - 5:00 pm: **Alexey Akimov** Closing.</a></li>
       </ul>
     </td>
     <td class="col-md-2">Alexey Akimov</td>
   </tr>
 
-  <tr>
-    <td class="col-md-3">July 10, 2024 (Day 3), Wednesday, <strong>QTAG and XF methods for Model Hamiltonians</strong></td>
-    <td class="col-md-9">
-      <ul>
-        <p><strong>Morning, 9 am - noon</strong></p>
-        <li><a href="/_episodes/03-vista-qtag-xf"></a>Quantum Trajectories with Adaptive Gaussians (QTAG). Lecture (40 min)</li>
-        <li><a href="https://quantum-dynamics-hub.github.io/VISTA/"></a>VISTA seminar 73</li>
-        <li><a href="/_episodes/03-vista-qtag-xf"></a>QTAG: Demo (30 min)</li>
-        <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
-        <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/03-vista-qtag-xf"></a>Hands on with QTAG (30 min)</li>
-        <li><a href="/_episodes/03-vista-qtag-xf">Exact factorization (XF) theories and independent-trajectory XF methods. Lecture. (60 min)</a></li>
-        <li><a href="/_episodes/03-vista-qtag-xf">XF methods: SHXF, MQCXF, MFXF dynamics on model systems. Demo and Hands on (90 min)</a> </li>
-        <li><a href="/_episodes/03-vista-qtag-xf">Discussions and Collaborations (60 min)</a></li>
-      </ul>
-    </td>
-    <td class="col-md-2">Sophya Garashchuk, Daeho Han, Alexey Akimov</td>
-  </tr>
-
-  <tr>
-    <td class="col-md-3">July 11, 2024 (Day 4), Thursday, <strong>TSH for atomistic systems</strong></td>
-    <td class="col-md-7">                              
-      <ul>
-        <p><strong>Morning, 9 am - noon.</strong></p>
-        <li><a href="/_episodes/04-atomistic-namd">Overview of the atomistic NA-MD calculations workflow with Libra. Lecture (30 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">Conducting electronic structure calculation with CP2K. Demo and Hands on. (60 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">NBRA NA-MD workflow with Libra/CP2K interface (steps 2 and 3) with DFT and xTB. Demo and Hands on (90 min)</a> </li>
-        <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
-        <p><strong>Afternoon, 1:30 pm - 5:00 pm.</strong></p>
-        <li><a href="/_episodes/04-atomistic-namd">NBRA NA-MD workflow with Libra/CP2K interface (step 4). Demo and Hands on (60 min)</a> </li>
-        <li><a href="/_episodes/04-atomistic-namd">Analyzing the dynamics results and generating timescales. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">NAC-free approach: Belyaev-Lebedev Landau-Zener (BLLZ) (30 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">Known pitfalls. Lecture and discussion.(30 min)</a></li>
-        <li><a href="/_episodes/04-atomistic-namd">Discussions and Collaborations (30 min)</a></li>
-      </ul>
-    </td>
-    <td class="col-md-2">Mohammad Shakiba, Qingxin Zhang, Alexey Akimov</td>
-  </tr>
-
-  <tr>
-    <td class="col-md-3">July 12, 2024 (Day 5), Friday, <strong>Machine Learning in NA-MD</strong></td>
-    <td class="col-md-7">
-      <ul>
-        <p><strong>Morning, 9 am - noon.</strong></p>
-        <li><a href="/_episodes/05-ml-namd">Hands on with Python packages and tools for ML. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/05-ml-namd">Introduction to Kohn-Sham Hamiltonian mapping (KSHM) approach. Lecture. (30 min)</a></li>
-        <li><a href="/_episodes/05-ml-namd">KSHM in Libra to accelerate overlap/time-overlap calculations. Demo and Hands on (90 min)</a></li>
-        <p><strong>Noon - 1:30 pm</strong> Lunch break</p>
-        <p><strong>Afternoon, 1:30 pm - 5:00 pm</strong></p>
-        <li><a href="/_episodes/05-ml-namd">The KSHM workflow for NA-MD of materials. Demo and Hands on (60 min)</a></li>
-        <li><a href="/_episodes/05-ml-namd">Discussions and Collaborations (150 min)</a></li>
-        <li>Closing. Exploring Buffalo.</li>
-      </ul>
-    </td>
-    <td class="col-md-2">Mohammad Shakiba, Alexey Akimov</td>
-  </tr>
   
   <tr>
-    <td class="col-md-3">July 13, 2024, Saturday</td>
+    <td class="col-md-3">August 17, 2024, Saturday</td>
     <td class="col-md-7">
       <ul>
         <li>Departure.</li>
