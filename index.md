@@ -238,8 +238,6 @@ The details may vary and the order of topics may be changed, the topics may be o
   <tr>
     <td class="col-md-12">August 17, 2024, Saturday: Departures</td>
   </tr>
-
-
   </table>
 
 
