@@ -111,146 +111,34 @@ Display the contact email address set in the configuration file.
 | 10:00 am - 10:40 am  | Daniel Crawford  | Research presentation                    |
 | 10:40 am - 11:20 am  | Zhenggang Lan (remote)  | Research presentation             |
 | 11:20 am - 12:00 am  | Johannes Hackmann (remote)  | Research presentation         |
+| Noon -      1:30 pm  | |  Lunch break |
+|  1:30 pm -  2:10 pm  | Michele Pavanello  | Research presentation         |
+|  2:10 pm -  2:50 pm  | Rafael Gomez-Bombarelli  | Research presentation         |
+|  2:50 pm -  3:30 pm  | Mark Tuckermann  | Research presentation         |
+|  3:30 pm -  4:10 pm  | Romit Chakraborty (Laura Gagliardy group)  | Research presentation      |
+|  4:10 pm -  5:00 pm  |   | Discussions      |
 
 
-  <table class="table table-striped">  
-  <tr>
-    <td class="col-md-12">August 14, 2024, Wednesday: Arrivals and Welcome dinner.</td>
-  </tr>
+### August 16, 2024, Friday: Day 2
 
-  <tr>
-    <td class="col-md-12">August 15, 2024, Thursday: Day 1</td>
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>Time</strong></td>
-    <td class="col-md-3"><strong>Presenter</strong></td>
-    <td class="col-md-6"><strong>Topic</strong></td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>9:00 am - 9:15 am</strong></td>
-    <td class="col-md-3"><strong>Alexey Akimov</strong></td>
-    <td class="col-md-6">Introductory remarks</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>9:15 am - 10:00 am</strong></td>
-    <td class="col-md-3"><strong>Daniel Crawford</strong></td>
-    <td class="col-md-6">MolSSI presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>10:00 am - 10:40 am</strong></td>
-    <td class="col-md-3"><strong>Daniel Crawford</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>10:40 am - 11:20 am</strong></td>
-    <td class="col-md-3"><strong>Zhenggang Lan (remote)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>11:20 am - 12:00 am</strong></td>
-    <td class="col-md-3"><strong>Johannes Hackmann (remote)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-12">Noon - 1:30 pm: Lunch break</td>
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>1:30 pm - 2:10 pm</strong></td>
-    <td class="col-md-3"><strong>Michele Pavanello</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>2:10 pm - 2:50 pm</strong></td>
-    <td class="col-md-3"><strong>Rafael Gomez-Bombarelli</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>2:50 pm - 3:30 pm</strong></td>
-    <td class="col-md-3"><strong>Mark Tuckermann</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>3:30 pm - 4:10 pm</strong></td>
-    <td class="col-md-3"><strong>Romit Chakraborty (Laura Gagliardy group)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>4:10 pm - 5:00 pm</strong></td>
-    <td class="col-md-3"><strong></strong></td>
-    <td class="col-md-6">Discussions</td> 
-  </tr>
+|       Time           |       Name       |         Topic                            |
+|----------------------|------------------|------------------------------------------|
+|  9:00 am -  9:40 am  | Davlo Dral (remote)  | Research presentation                |
+|  9:40 am - 10:20 am  | Linjun Wang (remote)  | MolSSI presentation                 |
+| 10:20 am - 11:00 am  | Xiang Sun (remote)  | Research presentation                    |
+| 11:00 am - 11:40 am  | Alexei Kananenka   | Research presentation             |
+| 11:40 am - 12:00 am  |   | Discussions         |
+| Noon -      1:30 pm  | |  Lunch break |
+|  1:30 pm -  2:10 pm  | Alexey Akimov  | Research presentation         |
+|  2:10 pm -  2:50 pm  | Oleg Prezhdo  | Research presentation         |
+|  2:50 pm -  3:30 pm  | Dmitri Kilin  | Research presentation         |
+|  3:30 pm -  4:10 pm  | Maxim Kulichenko (Sergei Tretiak group)  | Research presentation      |
+|  4:10 pm -  4:50 pm  | Mohammad Shakiba (Alexey Akimov group)  | Research presentation      |
+|  4:50 pm -  5:00 pm  | Alexey Akimov | Closing remarks      |
 
-  <tr>
-    <td class="col-md-12">August 16, 2024, Friday: Day 2</td>
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>Time</strong></td>
-    <td class="col-md-3"><strong>Presenter</strong></td>
-    <td class="col-md-6"><strong>Topic</strong></td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>9:00 am - 9:40 am</strong></td>
-    <td class="col-md-3"><strong>Pavlo Dral (remote)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>9:40 am - 10:20 am</strong></td>
-    <td class="col-md-3"><strong>Linjun Wang (remote)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>10:20 am - 11:00 am</strong></td>
-    <td class="col-md-3"><strong>Xiang Sun (remote)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>11:00 am - 11:40 am</strong></td>
-    <td class="col-md-3"><strong>Alexei Kananenka</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>11:40 am - 12:00 am</strong></td>
-    <td class="col-md-3"><strong></strong></td>
-    <td class="col-md-6">Discussions</td> 
-  </tr>
-  <tr>
-    <td class="col-md-12">Noon - 1:30 pm: Lunch break</td>
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>1:30 pm - 2:10 pm</strong></td>
-    <td class="col-md-3"><strong>Alexey Akimov</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>2:10 pm - 2:50 pm</strong></td>
-    <td class="col-md-3"><strong>Oleg Prezhdo</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>2:50 pm - 3:30 pm</strong></td>
-    <td class="col-md-3"><strong>Dmitri Kilin</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>3:30 pm - 4:10 pm</strong></td>
-    <td class="col-md-3"><strong>Maxim Kulichenko (Sergei Tretiak group)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>4:10 pm - 4:50 pm</strong></td>
-    <td class="col-md-3"><strong>Mohammad Shakiba (Alexey Akimov group)</strong></td>
-    <td class="col-md-6">Research presentation</td> 
-  </tr>
-  <tr>
-    <td class="col-md-3"><strong>4:50 pm - 5:00 pm</strong></td>
-    <td class="col-md-3"><strong>Alexey Akimov</strong></td>
-    <td class="col-md-6">Closing remarks</td> 
-  </tr>
+### August 17, 2024, Wednesday
 
-  <tr>
-    <td class="col-md-12">August 17, 2024, Saturday: Departures</td>
-  </tr>
-  </table>
+ Departures.
 
 
 ### Acknowledgement
