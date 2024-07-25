@@ -96,10 +96,22 @@ Display the contact email address set in the configuration file.
 
 
 ## Schedule
-
 {% include base_path.html %}
 
-The details may vary and the order of topics may be changed, the topics may be omitted or added. Please check for the updates. 
+### August 14, 2024, Wednesday
+
+ Arrivals and Welcome dinner.
+
+### August 15, 2024, Thursday: Day 1
+
+|       Time           |       Name       |         Topic                            |
+|----------------------|------------------|------------------------------------------|
+|  9:00 am -  9:15 am  | Alexey Akimov    | Introductory remarks                     |
+|  9:15 am - 10:00 am  | Daniel Crawford  | MolSSI presentation                      |
+| 10:00 am - 10:40 am  | Daniel Crawford  | Research presentation                    |
+| 10:40 am - 11:20 am  | Zhenggang Lan (remote)  | Research presentation             |
+| 11:20 am - 12:00 am  | Johannes Hackmann (remote)  | Research presentation         |
+
 
   <table class="table table-striped">  
   <tr>
