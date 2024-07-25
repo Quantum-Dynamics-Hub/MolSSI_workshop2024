@@ -40,7 +40,7 @@ title: "Schedule"
 
 |       Time           |       Name       |         Topic                            |
 |----------------------|------------------|------------------------------------------|
-|  9:00 am -  9:40 am  | Davlo Dral (remote)  | Research presentation                |
+|  9:00 am -  9:40 am  | Pavlo Dral (remote)  | Research presentation                |
 |  9:40 am - 10:20 am  | Linjun Wang (remote)  | MolSSI presentation                 |
 | 10:20 am - 11:00 am  | Xiang Sun (remote)  | Research presentation                    |
 | 11:00 am - 11:40 am  | Alexei Kananenka   | Research presentation             |
@@ -49,7 +49,7 @@ title: "Schedule"
 |  1:30 pm -  2:10 pm  | Alexey Akimov  | Research presentation         |
 |  2:10 pm -  2:50 pm  | Oleg Prezhdo  | Research presentation         |
 |  2:50 pm -  3:30 pm  | Dmitri Kilin  | Research presentation         |
-|  3:30 pm -  4:10 pm  | Maxim Kulichenko (Sergei Tretiak group)  | Research presentation      |
+|  3:30 pm -  4:10 pm  | Maksim Kulichenko (Sergei Tretiak group)  | Research presentation      |
 |  4:10 pm -  5:50 pm  |   | Closing remarks. Discussions      |
 
 ### August 17, 2024, Wednesday
