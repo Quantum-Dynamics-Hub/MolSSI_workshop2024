@@ -95,6 +95,153 @@ Display the contact email address set in the configuration file.
 </p>
 
 
+## Schedule
+
+{% include base_path.html %}
+
+The details may vary and the order of topics may be changed, the topics may be omitted or added. Please check for the updates. 
+
+  <table class="table table-striped">  
+  <tr>
+    <td class="col-md-12">August 14, 2024, Wednesday: Arrivals and Welcome dinner.</td>
+  </tr>
+
+  <tr>
+    <td class="col-md-12">August 15, 2024, Thursday: Day 1</td>
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>Time</strong></td>
+    <td class="col-md-3"><strong>Presenter</strong></td>
+    <td class="col-md-6"><strong>Topic</strong></td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>9:00 am - 9:15 am</strong></td>
+    <td class="col-md-3"><strong>Alexey Akimov</strong></td>
+    <td class="col-md-6">Introductory remarks</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>9:15 am - 10:00 am</strong></td>
+    <td class="col-md-3"><strong>Daniel Crawford</strong></td>
+    <td class="col-md-6">MolSSI presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>10:00 am - 10:40 am</strong></td>
+    <td class="col-md-3"><strong>Daniel Crawford</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>10:40 am - 11:20 am</strong></td>
+    <td class="col-md-3"><strong>Zhenggang Lan (remote)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>11:20 am - 12:00 am</strong></td>
+    <td class="col-md-3"><strong>Johannes Hackmann (remote)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-12">Noon - 1:30 pm: Lunch break</td>
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>1:30 pm - 2:10 pm</strong></td>
+    <td class="col-md-3"><strong>Michele Pavanello</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>2:10 pm - 2:50 pm</strong></td>
+    <td class="col-md-3"><strong>Rafael Gomez-Bombarelli</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>2:50 pm - 3:30 pm</strong></td>
+    <td class="col-md-3"><strong>Mark Tuckermann</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>3:30 pm - 4:10 pm</strong></td>
+    <td class="col-md-3"><strong>Romit Chakraborty (Laura Gagliardy group)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>4:10 pm - 5:00 pm</strong></td>
+    <td class="col-md-3"><strong></strong></td>
+    <td class="col-md-6">Discussions</td> 
+  </tr>
+
+  <tr>
+    <td class="col-md-12">August 16, 2024, Friday: Day 2</td>
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>Time</strong></td>
+    <td class="col-md-3"><strong>Presenter</strong></td>
+    <td class="col-md-6"><strong>Topic</strong></td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>9:00 am - 9:40 am</strong></td>
+    <td class="col-md-3"><strong>Pavlo Dral (remote)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>9:40 am - 10:20 am</strong></td>
+    <td class="col-md-3"><strong>Linjun Wang (remote)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>10:20 am - 11:00 am</strong></td>
+    <td class="col-md-3"><strong>Xiang Sun (remote)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>11:00 am - 11:40 am</strong></td>
+    <td class="col-md-3"><strong>Alexei Kananenka</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>11:40 am - 12:00 am</strong></td>
+    <td class="col-md-3"><strong></strong></td>
+    <td class="col-md-6">Discussions</td> 
+  </tr>
+  <tr>
+    <td class="col-md-12">Noon - 1:30 pm: Lunch break</td>
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>1:30 pm - 2:10 pm</strong></td>
+    <td class="col-md-3"><strong>Alexey Akimov</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>2:10 pm - 2:50 pm</strong></td>
+    <td class="col-md-3"><strong>Oleg Prezhdo</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>2:50 pm - 3:30 pm</strong></td>
+    <td class="col-md-3"><strong>Dmitri Kilin</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>3:30 pm - 4:10 pm</strong></td>
+    <td class="col-md-3"><strong>Maxim Kulichenko (Sergei Tretiak group)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>4:10 pm - 4:50 pm</strong></td>
+    <td class="col-md-3"><strong>Mohammad Shakiba (Alexey Akimov group)</strong></td>
+    <td class="col-md-6">Research presentation</td> 
+  </tr>
+  <tr>
+    <td class="col-md-3"><strong>4:50 pm - 5:00 pm</strong></td>
+    <td class="col-md-3"><strong>Alexey Akimov</strong></td>
+    <td class="col-md-6">Closing remarks</td> 
+  </tr>
+
+  <tr>
+    <td class="col-md-12">August 17, 2024, Saturday: Departures</td>
+  </tr>
+
+
+  </table>
+
 
 ### Acknowledgement
 
