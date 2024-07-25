@@ -25,14 +25,14 @@ title: "Schedule"
 |----------------------|------------------|------------------------------------------|
 |  9:00 am -  9:15 am  | Alexey Akimov    | Introductory remarks                     |
 |  9:15 am - 10:00 am  | Daniel Crawford  | MolSSI presentation                      |
-| 10:00 am - 10:40 am  | Daniel Crawford  | Research presentation                    |
-| 10:40 am - 11:20 am  | Zhenggang Lan (remote)  | Research presentation             |
-| 11:20 am - 12:00 am  | Johannes Hackmann (remote)  | Research presentation         |
+| 10:00 am - 10:40 am  | Zhenggang Lan (remote)  | Research presentation             |
+| 10:40 am - 11:20 am  | Johannes Hackmann (remote)  | Research presentation         |
+| 11:20 am - 12:00 am  | Rafael Gomez-Bombarelli  | Research presentation            |
 | Noon -      1:30 pm  | |  Lunch break |
-|  1:30 pm -  2:10 pm  | Michele Pavanello  | Research presentation         |
-|  2:10 pm -  2:50 pm  | Rafael Gomez-Bombarelli  | Research presentation         |
-|  2:50 pm -  3:30 pm  | Mark Tuckermann  | Research presentation         |
-|  3:30 pm -  4:10 pm  | Romit Chakraborty (Laura Gagliardy group)  | Research presentation      |
+|  1:30 pm -  2:10 pm  | Michele Pavanello  | Research presentation                  |
+|  2:10 pm -  2:50 pm  | Mark Tuckermann  | Research presentation  | Research presentation    |
+|  2:50 pm -  3:30 pm  | Romit Chakraborty (Laura Gagliardy group)     |
+|  3:30 pm -  4:10 pm  | Mohammad Shakiba (Alexey Akimov group)  | Research presentation      |
 |  4:10 pm -  5:00 pm  |   | Discussions      |
 
 
@@ -50,8 +50,7 @@ title: "Schedule"
 |  2:10 pm -  2:50 pm  | Oleg Prezhdo  | Research presentation         |
 |  2:50 pm -  3:30 pm  | Dmitri Kilin  | Research presentation         |
 |  3:30 pm -  4:10 pm  | Maxim Kulichenko (Sergei Tretiak group)  | Research presentation      |
-|  4:10 pm -  4:50 pm  | Mohammad Shakiba (Alexey Akimov group)  | Research presentation      |
-|  4:50 pm -  5:00 pm  | Alexey Akimov | Closing remarks      |
+|  4:10 pm -  5:50 pm  |   | Closing remarks. Discussions      |
 
 ### August 17, 2024, Wednesday
 
