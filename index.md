@@ -113,8 +113,8 @@ Display the contact email address set in the configuration file.
 | 11:20 am - 12:00 am  | Rafael Gomez-Bombarelli (remote)  | Research presentation            |
 | Noon -      1:30 pm  | |  Lunch break |
 |  1:30 pm -  2:10 pm  | Michele Pavanello  | Research presentation                  |
-|  2:10 pm -  2:50 pm  | Mark Tuckermann  | Research presentation  | 
-|  2:50 pm -  3:30 pm  | Romit Chakraborty (Laura Gagliardy group)     |
+|  2:10 pm -  2:50 pm  | Mark Tuckerman  | Research presentation  | 
+|  2:50 pm -  3:30 pm  | Nitin Murthy (Johannes Hachmann group)     |
 |  3:30 pm -  4:10 pm  | Mohammad Shakiba (Alexey Akimov group)  | Research presentation      |
 |  4:10 pm -  5:00 pm  |   | Discussions      |
 
@@ -124,7 +124,7 @@ Display the contact email address set in the configuration file.
 |       Time           |       Name       |         Topic                            |
 |----------------------|------------------|------------------------------------------|
 |  9:00 am -  9:40 am  | Pavlo Dral (remote)  | Research presentation                |
-|  9:40 am - 10:20 am  | Linjun Wang (remote)  | MolSSI presentation                 |
+|  9:40 am - 10:20 am  | Linjun Wang (remote)  | Research presentation                 |
 | 10:20 am - 11:00 am  | Xiang Sun (remote)  | Research presentation                    |
 | 11:00 am - 11:40 am  | Alexei Kananenka   | Research presentation             |
 | 11:40 am - 12:00 am  |   | Discussions         |
