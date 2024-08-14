@@ -52,7 +52,7 @@ title: "Schedule"
 |  3:30 pm -  4:10 pm  | Johannes Hachmann (remote)  | Research presentation      |
 |  4:10 pm -  5:50 pm  |   | Closing remarks. Discussions      |
 
-### August 17, 2024, Wednesday
+### August 17, 2024, Saturday
 
  Departures.
 
